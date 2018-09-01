@@ -1,5 +1,4 @@
 
------------------
 ###  PAN-2018-Predict
 This repository contains the code to predict gender of authors from a PAN 2018 test dataset, using a trained [gender classifier](https://github.com/arthur-sultan-info/PAN2018-AP-Train).
 
